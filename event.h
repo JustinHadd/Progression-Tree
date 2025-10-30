@@ -1,16 +1,13 @@
 #ifndef EVENT_H
 #define EVENT_H
 
-class Event {
- private:
-  const int originDay, originMonth, originYear;
-  int day, month, year;
-  string name, desc;
- public:
-  void print();
-  void printDates();
-  int changeDates();
-  Event();
+struct Event {
+  int id;
+ std::string name;
+ int year;
+ std::decription;
+  int X, Y;
+ //bool eventOccurs;
 };
 
 #endif

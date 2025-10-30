@@ -1,0 +1,41 @@
+10
+Township Established
+1790
+A small town grows after the land was surveyed.
+100 100
+
+100
+City Founded
+1810
+The area becomes officially incorporated into the state as a city.
+200 200
+
+200
+Civil War Battle
+1865
+The city becomes the scene for a guresome civil war battle between the Union and Confederates.
+300 220
+
+220
+Confederate Victory
+1865
+The city falls under rebel control. This will affect the region's culture.
+250 250
+
+250
+Confederate Statue Built
+1920
+The city erects a statue memorializing a rebel leader.
+NULL NULL
+
+300
+Union Victory
+1865
+The union forces defend the city against the rebel hostiles. This will affect the region's culture.
+350 350
+
+350
+Union Statue Built
+1920
+The city erects a statue memorializing a Union leader.
+NULL NULL
